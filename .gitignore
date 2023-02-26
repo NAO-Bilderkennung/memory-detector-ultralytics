@@ -1,0 +1,6 @@
+.idea/
+frames/
+models/*
+venv/
+
+frames.zip
